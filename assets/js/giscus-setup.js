@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "hoangdzung/hoangdzung",
+    "data-repo": "hoangdzung/hoangdzung.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",

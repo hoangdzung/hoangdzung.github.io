@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://trung-dunghoang.github.io/sitemap.xml
+Sitemap: https://hoangdzung.github.io/sitemap.xml
