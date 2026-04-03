@@ -17,31 +17,48 @@
   and An, Sora
   and Lyu, Yilin
   and Liu, Xiaoyue",
-  title="A Real-Time Digital Twin for Type 1 Diabetes Using Simulation-Based Inference",
+  title="A Real-Time Digital Twin for Type 1 Diabetes Using Simulation-Based Inference (Oral)",
   booktitle="Digital Twin for Healthcare",
   year="2026",
   publisher="Springer Nature Switzerland",
   address="Cham",
   pages="35--46",
   abstract="Accurately estimating parameters of physiological models is essential to achieving reliable digital twins. For Type 1 Diabetes, this is particularly challenging due to the complexity of glucose--insulin interactions. Traditional methods based on Markov Chain Monte Carlo struggle with high-dimensional parameter spaces and fit parameters from scratch at inference time, making them slow and computationally expensive. In this study, we propose a Simulation-Based Inference approach based on Neural Posterior Estimation to efficiently capture the complex relationships between meal intake, insulin, and glucose level, providing faster, amortized inference. Our experiments demonstrate that SBI not only outperforms traditional methods in parameter estimation but also generalizes better to unseen conditions, offering real-time posterior inference with reliable uncertainty quantification. Code available at https://github.com/mlm-lab-research/SBI{\_}T1D.",
-  isbn="978-3-032-07694-6"
+  isbn="978-3-032-07694-6",
+  selected={true},
+  arxiv={2507.01740},
+  code={https://github.com/mlm-lab-research/SBI_T1D},
+  abbr={MICCAI Workshop},
+  oral={Oral}
 }
 
 @inproceedings{
   tong2025raoblackwell,
   title={Rao-Blackwell Gradient Estimators for Equivariant Denoising Diffusion},
-  author={Vinh Tong and Dung Trung Hoang and Anji Liu and Guy Van den Broeck and Mathias Niepert},
+  author={Vinh Tong* and Trung-Dung Hoang* and Anji Liu and Guy Van den Broeck and Mathias Niepert},
   booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
   year={2025},
-  url={https://openreview.net/forum?id=ENJhSqVkXH}
+  url={https://openreview.net/forum?id=ENJhSqVkXH},
+  selected={true},
+  arxiv={2502.09890},
+  abstract="In domains such as molecular and protein generation, physical systems exhibit inherent symmetries that are critical to model. Two main strategies have emerged for learning invariant distributions: designing equivariant network architectures and using data augmentation to approximate equivariance. While equivariant architectures preserve symmetry by design, they often involve greater complexity and pose optimization challenges. Data augmentation, on the other hand, offers flexibility but may fall short in fully capturing symmetries. Our framework enhances both approaches by reducing training variance and providing a provably lower-variance gradient estimator. We achieve this by interpreting data augmentation as a Monte Carlo estimator of the training gradient and applying Rao-Blackwellization. This leads to more stable optimization, faster convergence, and reduced variance, all while requiring only a single forward and backward pass per sample. We also present a practical implementation of this estimator incorporating the loss and sampling procedure through a method we call Orbit Diffusion. Theoretically, we guarantee that our loss admits equivariant minimizers. Empirically, Orbit Diffusion achieves state-of-the-art results on GEOM-QM9 for molecular conformation generation, improves crystal structure prediction, and advances text-guided crystal generation on the Perov-5 and MP-20 benchmarks. Additionally, it enhances protein designability in protein structure generation.",
+  code={https://github.com/vinhsuhi/Orbit-Diffusion},
+  abbr={NeurIPS}
+
 }
 
 @inproceedings{
   tong2025learning,
-  title={Learning to Discretize Denoising Diffusion {ODE}s},
-  author={Vinh Tong and Dung Trung Hoang and Anji Liu and Guy Van den Broeck and Mathias Niepert},
+  title={Learning to Discretize Denoising Diffusion {ODE}s (Oral)},
+  author={Vinh Tong and Trung-Dung Hoang and Anji Liu and Guy Van den Broeck and Mathias Niepert},
   booktitle={The Thirteenth International Conference on Learning Representations},
   year={2025},
-  url={https://openreview.net/forum?id=xDrFWUmCne}
+  url={https://openreview.net/forum?id=xDrFWUmCne},
+  selected={true},
+  arxiv={2405.15506},
+  abstract="Diffusion Probabilistic Models (DPMs) are generative models showing competitive performance in various domains, including image synthesis and 3D point cloud generation. Sampling from pre-trained DPMs involves multiple neural function evaluations (NFEs) to transform Gaussian noise samples into images, resulting in higher computational costs compared to single-step generative models such as GANs or VAEs. Therefore, reducing the number of NFEs while preserving generation quality is crucial. To address this, we propose LD3, a lightweight framework designed to learn the optimal time discretization for sampling. LD3 can be combined with various samplers and consistently improves generation quality without having to retrain resource-intensive neural networks. We demonstrate analytically and empirically that LD3 improves sampling efficiency with much less computational overhead. We evaluate our method with extensive experiments on 7 pre-trained models, covering unconditional and conditional sampling in both pixel-space and latent-space DPMs. We achieve FIDs of 2.38 (10 NFE), and 2.27 (10 NFE) on unconditional CIFAR10 and AFHQv2 in 5-10 minutes of training. LD3 offers an efficient approach to sampling from pre-trained diffusion models.",
+  code={https://github.com/vinhsuhi/LD3},
+  abbr={ICLR},
+  oral={Oral}
 }
 

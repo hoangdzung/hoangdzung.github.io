@@ -27,7 +27,9 @@ latest_posts:
 
 I am a PhD student in Biomedical Engineering at the University of Bern, where I am part of the [Machine Learning in Medicine lab](https://www.mlm-lab.ch) led by [Prof. Lisa Koch](https://www.mlm-lab.ch/people/). My current work focuses on simulation-based inference, generative modeling, and machine learning for healthcare. I am excited to keep learning, to solve problems, and to better understand complex systems through research. 
 
-Before starting my PhD, I completed an MSc in Computer Science at EPFL and a BEng in Information Technology at Hanoi University of Science and Technology.
+Before starting my PhD, I completed an MSc in Computer Science at EPFL and a BEng in Information Technology at Hanoi University of Science and Technology. You can find my CV [here](/assets/pdf/Trung_DungHoang_CV.pdf).
+
+Please feel free to reach out if you would like to connect or discuss shared research interests.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
