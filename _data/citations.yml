@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-10'
 papers:
   1ngWTswAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -14,7 +14,7 @@ papers:
     title: Subgroup Performance Analysis in Hidden Stratifications
     year: '2025'
   1ngWTswAAAAJ:UeHWp8X0CEIC:
-    citations: 53
+    citations: 55
     title: 'Deep MinCut: Learning node embeddings by detecting communities'
     year: '2023'
   1ngWTswAAAAJ:WF5omc3nYNoC:
