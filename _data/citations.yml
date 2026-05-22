@@ -1,26 +1,30 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-05-22'
 papers:
   1ngWTswAAAAJ:0EnyYjriUFMC:
-    citations: 2
+    citations: 3
     title: Rao-blackwell gradient estimators for equivariant denoising diffusion
-    year: '2025'
+    year: '2026'
   1ngWTswAAAAJ:2osOgNQ5qMEC:
-    citations: 51
+    citations: 54
     title: Efficient streaming subgraph isomorphism with graph neural networks
     year: '2021'
   1ngWTswAAAAJ:LkGwnXOMwfcC:
     citations: 4
     title: Subgroup Performance Analysis in Hidden Stratifications
     year: '2025'
+  1ngWTswAAAAJ:MXK_kJrjxJIC:
+    citations: 0
+    title: A REAL-TIME DIGITAL TWIN FOR TYPE 1 DIABETES BASED ON DEEP GENERATIVE MODELS
+    year: '2026'
   1ngWTswAAAAJ:UeHWp8X0CEIC:
-    citations: 55
+    citations: 58
     title: 'Deep MinCut: Learning node embeddings by detecting communities'
     year: '2023'
   1ngWTswAAAAJ:WF5omc3nYNoC:
-    citations: 27
+    citations: 30
     title: Learning to discretize denoising diffusion odes
-    year: '2024'
+    year: '2025'
   1ngWTswAAAAJ:_FxGoFyzp5QC:
     citations: 2
     title: Two-stream deep residual learning with fisher criterion for human action recognition
@@ -32,9 +36,9 @@ papers:
   1ngWTswAAAAJ:qjMakFHDy7sC:
     citations: 4
     title: Scalable robust graph embedding with Spark
-    year: '2022'
+    year: '2021'
   1ngWTswAAAAJ:roLk4NBRz8UC:
-    citations: 0
+    citations: 1
     title: A Real-Time Digital Twin for Type 1 Diabetes Using Simulation-Based Inference
     year: '2025'
   1ngWTswAAAAJ:u-x6o8ySG0sC:
