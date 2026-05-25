@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-25'
 papers:
   1ngWTswAAAAJ:0EnyYjriUFMC:
     citations: 3
     title: Rao-blackwell gradient estimators for equivariant denoising diffusion
     year: '2026'
   1ngWTswAAAAJ:2osOgNQ5qMEC:
-    citations: 54
+    citations: 55
     title: Efficient streaming subgraph isomorphism with graph neural networks
     year: '2021'
   1ngWTswAAAAJ:LkGwnXOMwfcC:
