@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-24'
 papers:
   1ngWTswAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -18,11 +18,11 @@ papers:
     title: A REAL-TIME DIGITAL TWIN FOR TYPE 1 DIABETES BASED ON DEEP GENERATIVE MODELS
     year: '2026'
   1ngWTswAAAAJ:UeHWp8X0CEIC:
-    citations: 59
+    citations: 61
     title: 'Deep MinCut: Learning node embeddings by detecting communities'
     year: '2023'
   1ngWTswAAAAJ:WF5omc3nYNoC:
-    citations: 30
+    citations: 33
     title: Learning to discretize denoising diffusion odes
     year: '2025'
   1ngWTswAAAAJ:_FxGoFyzp5QC:
@@ -36,7 +36,7 @@ papers:
   1ngWTswAAAAJ:qjMakFHDy7sC:
     citations: 4
     title: Scalable robust graph embedding with Spark
-    year: '2021'
+    year: '2022'
   1ngWTswAAAAJ:roLk4NBRz8UC:
     citations: 1
     title: A Real-Time Digital Twin for Type 1 Diabetes Using Simulation-Based Inference
