@@ -1,28 +1,24 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-17'
 papers:
   1ngWTswAAAAJ:0EnyYjriUFMC:
     citations: 3
-    title: Rao-blackwell gradient estimators for equivariant denoising diffusion
+    title: Rao-Blackwell Gradient Estimators for Equivariant Denoising Diffusion
     year: '2026'
   1ngWTswAAAAJ:2osOgNQ5qMEC:
     citations: 56
     title: Efficient streaming subgraph isomorphism with graph neural networks
     year: '2021'
   1ngWTswAAAAJ:LkGwnXOMwfcC:
-    citations: 7
-    title: Subgroup Performance Analysis in Hidden Stratifications
+    citations: 8
+    title: Subgroup performance analysis in hidden stratifications
     year: '2025'
-  1ngWTswAAAAJ:MXK_kJrjxJIC:
-    citations: 0
-    title: A REAL-TIME DIGITAL TWIN FOR TYPE 1 DIABETES BASED ON DEEP GENERATIVE MODELS
-    year: '2026'
   1ngWTswAAAAJ:UeHWp8X0CEIC:
     citations: 60
     title: 'Deep MinCut: Learning node embeddings by detecting communities'
     year: '2023'
   1ngWTswAAAAJ:WF5omc3nYNoC:
-    citations: 38
+    citations: 44
     title: Learning to discretize denoising diffusion odes
     year: '2025'
   1ngWTswAAAAJ:_FxGoFyzp5QC:
@@ -33,6 +29,10 @@ papers:
     citations: 1
     title: Label-free estimation of clinically relevant performance metrics under distribution shifts
     year: '2025'
+  1ngWTswAAAAJ:kNdYIx-mwKoC:
+    citations: 7
+    title: "WHO Research Group on Post-ovulatory Methods of Fertility Regulation. Comparison of vaginal and sublingual misoprostol for second trimester abortion: randomized controlled \u2026"
+    year: '2009'
   1ngWTswAAAAJ:qjMakFHDy7sC:
     citations: 4
     title: Scalable robust graph embedding with Spark
@@ -45,7 +45,3 @@ papers:
     citations: 13
     title: Graph embeddings for one-pass processing of heterogeneous queries
     year: '2020'
-  1ngWTswAAAAJ:ufrVoPGSRksC:
-    citations: 0
-    title: Symmetry-Preserving Diffusion Models via Target Symmetrization
-    year: '2025'
