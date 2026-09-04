@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-09-04'
 papers:
   1ngWTswAAAAJ:0EnyYjriUFMC:
     citations: 3
     title: Rao-Blackwell Gradient Estimators for Equivariant Denoising Diffusion
     year: '2026'
   1ngWTswAAAAJ:2osOgNQ5qMEC:
-    citations: 56
+    citations: 57
     title: Efficient streaming subgraph isomorphism with graph neural networks
     year: '2021'
   1ngWTswAAAAJ:LkGwnXOMwfcC:
-    citations: 8
+    citations: 10
     title: Subgroup performance analysis in hidden stratifications
     year: '2025'
   1ngWTswAAAAJ:UeHWp8X0CEIC:
-    citations: 60
+    citations: 65
     title: 'Deep MinCut: Learning node embeddings by detecting communities'
     year: '2023'
   1ngWTswAAAAJ:WF5omc3nYNoC:
@@ -29,10 +29,6 @@ papers:
     citations: 1
     title: Label-free estimation of clinically relevant performance metrics under distribution shifts
     year: '2025'
-  1ngWTswAAAAJ:kNdYIx-mwKoC:
-    citations: 7
-    title: "WHO Research Group on Post-ovulatory Methods of Fertility Regulation. Comparison of vaginal and sublingual misoprostol for second trimester abortion: randomized controlled \u2026"
-    year: '2009'
   1ngWTswAAAAJ:qjMakFHDy7sC:
     citations: 4
     title: Scalable robust graph embedding with Spark
